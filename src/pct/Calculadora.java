@@ -7,6 +7,7 @@ package pct;
 
 import java.util.Scanner;
 
+// Esse é o comentário de teste
 
 /**
  *
